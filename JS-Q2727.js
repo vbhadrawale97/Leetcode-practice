@@ -23,7 +23,7 @@
 // Explanation: The array has 3 elements so it is not empty.
 
 /**
- * @param {Object|Array} obj
+ * @param {Object|Array} objT
  * @return {boolean}
  */
 var isEmpty = function(obj) {
